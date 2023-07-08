@@ -1,25 +1,23 @@
 # Chatbot + language detection
-Омельянчук Ольга
-@Test11745_bot
 
 -------------
 
-## Описание:
+## Description:
 
-Мультиязычный чат-бот с классификацией языка вводимого текста на основе логистической регрессии  
+Multilingual chatbot + language classification of input text based on logistic regression.
 
-## Цели:
+## Stages:
 
-1. Чат-бот\
+1. Chatbot\
 Result: Buttons.
 
-2. Модель для определения языков\
+2. Language detection model\
 Result: Logistic regression.
 
-3. Визуализация в R\
-Result: pie chart + bar chart.
+3. R visualisation\
+Result: Pie chart + bar chart.
 
-4. Развертывание\
+4. Deployment\
 Result: PythonAnywhere.
 
 ------------
